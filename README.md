@@ -1,1 +1,1 @@
-# aurelia-decisi-n-cockpit
+# aurelia-decision-cockpit
